@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\ahmed\\OneDrive\\Desktop\\BankManagement\\jcalendar-tz-1.3.3-4.jar",
+        "c:\\Users\\ahmed\\OneDrive\\Desktop\\BankManagement\\mysql-connector-java-8.0.28.jar"
+    ]
+}
